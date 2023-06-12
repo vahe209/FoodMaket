@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodMaket</string>
+    <string name="pizza">Pizza</string>
+    <string name="neapolitena_pizza">Neapolitena Pizza</string>
+    <string name="middle">Middle</string>
+    <string name="price">$3.28</string>
+    <string name="green_garden">Green garden</string>
+    <string name="qontity">QTY:</string>
+    <string name="choose_details_text">"     "Choose sides (Select up to 2) (Required)</string>
+    <string name="parent_title_text">"     "Parent Title</string>
+    <string name="other_info">Other info</string>
+    <string name="app_ones">App Ones</string>
+    <string name="btn_text">CONFIGURE</string>
+    <string name="notification">Options: QT4, Add Bacon, Add something, No Rise, please put it on the siede</string>
+</resources>
